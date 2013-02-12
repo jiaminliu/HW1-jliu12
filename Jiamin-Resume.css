@@ -1,24 +1,26 @@
 		body 
 		{
-			color: Black
-			background-color: White;
-			font-size: 12pt;
-			font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;  
+			color: white;
+	        font-family: Veranda;
+	        background-color:Brown;
+	        font-size: 12pt;
+	        margin-left: 10%;
+	        margin-right: 10%;
 			text-align: center;
 		}
 		
 
 
-		div { background-color:white; text-align:center; margin:0 auto; }
+		div {text-align:center; margin:0 auto; }
 		
-		p { color: black; font-size: 12pt; }
+		p { color: white; font-size: 12pt; }
 		
 		h1 { font-style:italic; font-weight:bold; }
 		h2 { font-weight:bold; text-decoration:underline }
 		
 		a { text-decoration:none; }
-		a:link, a:visited { color:Blue; }
-		a:hover, a:active { text-decoration:underline; color:red; }
+		a:link, a:visited { color:purple; }
+		a:hover, a:active { text-decoration:underline; color:Deeppink; }
 		
 		
 		
